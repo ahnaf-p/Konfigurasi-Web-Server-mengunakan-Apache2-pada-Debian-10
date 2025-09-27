@@ -5,6 +5,6 @@ Sabtu 27 September 2025
 
 # Langkah konfigurasi Web Server dengan Apache2
 
-# Troubleshoot
+# Troubleshooting
 
 # Kesimpulan
